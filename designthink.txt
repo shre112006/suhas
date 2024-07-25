@@ -1,0 +1,12 @@
+Design thinking:-
+Design thinking is a process 
+for solving problems by prioritizing and dividing the 
+user's needs.
+
+Design thinking consists of 5 major steps:-
+
+*Empathize
+*Define
+*Ideate
+*Prototype
+*Test
